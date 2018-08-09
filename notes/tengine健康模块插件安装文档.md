@@ -86,4 +86,4 @@
 
     1. 在两台vm里都有每个3秒收到来自nginx发送的HEAD请求，说明nginx `interval`参数运行正常
     
-    <img src='imgs/interval.png'>
+    <img src='interval.png'>
