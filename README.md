@@ -12,3 +12,5 @@
     docker run -p 4001:80 flask_app -n 2  # for node 2
     ```
 6. visit http://localhost/status
+
+> refer to notes/tengine健康模块插件安装文档 to check how to compile health_check modual into nginx
